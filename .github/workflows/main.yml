@@ -10,7 +10,7 @@ env:
   playstore_name: vanni
   
   # repo name variable
-  repository_name: ${{ github.repository }}
+  repository_name: nsfw
 
 on:
   # Triggers the workflow on push or pull request events but only for default and protected branches
