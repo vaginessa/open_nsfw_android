@@ -7,7 +7,7 @@ env:
   main_project_module: app
 
    # The name of the Play Store
-  playstore_name: ${{ github.repository_owner }}
+  playstore_name: vanni
   
   # repo name variable
   repository_name: ${{ github.repository }}
